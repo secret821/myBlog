@@ -2,7 +2,7 @@ import { defineUserConfig, defaultTheme  } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 export default defineUserConfig({
-  base:'/ly_blog/',
+  base:'/myBlog/',
   lang: 'zh-CN',
   title: 'ly_blog',
   description: 'ly_blog',
