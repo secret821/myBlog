@@ -4,7 +4,7 @@ import { webpackBundler } from '@vuepress/bundler-webpack'
 export default defineUserConfig({
   base:'/myBlog/',
   lang: 'zh-CN',
-  title: 'ly_blog',
+  title: '留简',
   description: 'ly_blog',
 //   head: [
 //     ['base', { href: 'https://ohudong.cztv.com' }]
