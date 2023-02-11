@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"- docs/.vuepress: 用于存放全局的配置、组件、静态资源等。","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1676102101000,"contributors":[{"name":"liuyan","email":"826148658@qq.com","commits":1}]},"filePathRelative":"guide/README.md"}');export{e as data};
