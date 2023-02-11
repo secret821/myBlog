@@ -22,7 +22,7 @@ export default defineUserConfig({
       { text: "微博", link: "https://weibo.com/u/7346009584" },
     ],
     sidebar: {
-      "/Note/": ["HTML","CSS","node","数据库","js","jscode","VUEUI","react", "微信小程序","UniApp","game"],
+      // "/Note/": ["HTML","CSS","node","数据库","js","jscode","VUEUI","react", "微信小程序","UniApp","game"],
       "/DEMO/": ["动态背景图", "时钟","贪吃蛇","填色游戏","拼图游戏"],
     },
     sidebarDepth: 2, // 侧边栏显示2级
